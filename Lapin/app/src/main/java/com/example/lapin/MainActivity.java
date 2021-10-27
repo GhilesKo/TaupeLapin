@@ -34,7 +34,9 @@ public class MainActivity extends AppCompatActivity {
 
         Random random = new Random();
         int NombreHasard = random.nextInt(9);
-        bouttons.get(NombreHasard).setText("Lapin");    
+        bouttons.get(NombreHasard).setText("Lapin");
+
+        
 
 
 
