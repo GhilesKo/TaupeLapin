@@ -70,12 +70,13 @@
         android:text="TAUPE"
         ></Button>
 
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="             "
-
             android:layout_gravity="bottom|center"
+
+            android:text="         "
 
             ></TextView>
 
@@ -87,12 +88,13 @@
 
             ></Button>
 
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="             "
-
             android:layout_gravity="bottom|center"
+
+            android:text="         "
 
             ></TextView>
 
@@ -126,10 +128,10 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="             "
-
             android:layout_gravity="bottom|center"
-            android:layout_marginTop="50dp"
+
+            android:text="         "
+
             ></TextView>
 
         <Button
@@ -143,10 +145,10 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="             "
-
             android:layout_gravity="bottom|center"
-            android:layout_marginTop="50dp"
+
+            android:text="         "
+
             ></TextView>
 
         <Button
@@ -179,10 +181,10 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="             "
-
             android:layout_gravity="bottom|center"
-            android:layout_marginTop="50dp"
+
+            android:text="         "
+
             ></TextView>
 
         <Button
@@ -196,10 +198,10 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="             "
-
             android:layout_gravity="bottom|center"
-            android:layout_marginTop="50dp"
+
+            android:text="         "
+
             ></TextView>
 
         <Button
