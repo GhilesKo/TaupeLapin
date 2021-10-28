@@ -34,7 +34,7 @@
             android:layout_weight="1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="flops"
+            android:text="0 flops"
             android:textSize="50dp"
             android:textColor="#FF043E"
             android:fontFamily="sans-serif-black"

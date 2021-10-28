@@ -75,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
         {
             pafs++;
             binding.pafs.setText(pafs + " pafs");
+            bouttons.get(positionLapin).setText("TAUPE");
             bougerLeLapin();
         }
         else
@@ -82,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
                 flops++;
                 binding.flops.setText(flops + " flops");
 
-
+                Toast.makeText(MainActivity.this, "POUF",Toast.LENGTH_SHORT).show();
             }
 
 
